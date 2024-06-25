@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "651146495f0e33f665630e40"
+  },
+  "Titel": "The Witcher 3: Wild Hunt",
+  "Erscheinungsjahr": 2015,
+  "AnzahlDownloads": 5000000,
+  "Altersgrenze": 18,
+  "Art": [
+    "Action",
+    "RPG"
+  ],
+  "Wertung": 9.3
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e41"
+  },
+  "Titel": "Grand Theft Auto V",
+  "Erscheinungsjahr": 2013,
+  "AnzahlDownloads": 10000000,
+  "Altersgrenze": 18,
+  "Art": [
+    "Action",
+    "Open World"
+  ],
+  "Wertung": 9.7
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e42"
+  },
+  "Titel": "Minecraft",
+  "Erscheinungsjahr": 2011,
+  "AnzahlDownloads": 20000000,
+  "Altersgrenze": 10,
+  "Art": [
+    "Sandbox",
+    "Abenteuer"
+  ],
+  "Wertung": 9
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e43"
+  },
+  "Titel": "The Legend of Zelda: Breath of the Wild",
+  "Erscheinungsjahr": 2017,
+  "AnzahlDownloads": 3000000,
+  "Altersgrenze": 10,
+  "Art": [
+    "Action",
+    "Abenteuer"
+  ],
+  "Wertung": 9.5
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e44"
+  },
+  "Titel": "Red Dead Redemption 2",
+  "Erscheinungsjahr": 2018,
+  "AnzahlDownloads": 4000000,
+  "Altersgrenze": 18,
+  "Art": [
+    "Action",
+    "Open World"
+  ],
+  "Wertung": 9.8
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e45"
+  },
+  "Titel": "Fortnite",
+  "Erscheinungsjahr": 2017,
+  "AnzahlDownloads": 100000000,
+  "Altersgrenze": 13,
+  "Art": [
+    "Battle Royale",
+    " Action"
+  ],
+  "Wertung": 8
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e46"
+  },
+  "Titel": "Counter-Strike: Global Offensive",
+  "Erscheinungsjahr": 2012,
+  "AnzahlDownloads": 30000000,
+  "Altersgrenze": 18,
+  "Art": [
+    "Shooter",
+    "E-Sport"
+  ],
+  "Wertung": 9.2
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e47"
+  },
+  "Titel": "Among Us",
+  "Erscheinungsjahr": 2018,
+  "AnzahlDownloads": 500000000,
+  "Altersgrenze": 10,
+  "Art": [
+    "Social Deduction",
+    "Multiplayer"
+  ],
+  "Wertung": 8.9
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e48"
+  },
+  "Titel": "FIFA 22",
+  "Erscheinungsjahr": 2021,
+  "AnzahlDownloads": 2000000,
+  "Altersgrenze": 3,
+  "Art": [
+    "Sport",
+    "Simulation"
+  ],
+  "Wertung": 8.7
+},
+{
+  "_id": {
+    "$oid": "651146495f0e33f665630e49"
+  },
+  "Titel": "The Elder Scrolls V: Skyrim",
+  "Erscheinungsjahr": 2011,
+  "AnzahlDownloads": 6000000,
+  "Altersgrenze": 18,
+  "Art": [
+    "RPG",
+    "Open World"
+  ],
+  "Wertung": 9.4
+}]
